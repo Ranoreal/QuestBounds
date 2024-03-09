@@ -26,7 +26,7 @@ Modrinth Install (Easier):
 
 How To Install?
 
-1. Download and Install JDK 18 (https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
+1. Download and Install JDK 18 Windows x64 Installer (https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
 
 2. Download the latest version of the ModPack file (https://modrinth.com/modpack/questbounds/versions#all-versions)
 
