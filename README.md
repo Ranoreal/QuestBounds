@@ -2,7 +2,7 @@ Manual Install:
 
 How To Install?
 
-1. Download and Install JDK 18 Windows x64 Installer (https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
+1. Download and Install JDK 8 Windows x64 Installer ([https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html](https://github.com/Ranoreal/QuestBounds/releases/tag/Java))
 
 2. Download and Install Minecraft (https://www.minecraft.net/en-us/download)
 
@@ -26,7 +26,7 @@ Modrinth Install (Easier):
 
 How To Install?
 
-1. Download and Install JDK 18 Windows x64 Installer (https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html)
+1. Download and Install JDK 8 Windows x64 Installer ([https://www.oracle.com/java/technologies/javase/jdk18-archive-downloads.html](https://github.com/Ranoreal/QuestBounds/releases/tag/Java))
 
 2. Download the latest version of the ModPack file (https://modrinth.com/modpack/questbounds/versions#all-versions)
 
